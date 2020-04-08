@@ -1,0 +1,7 @@
+C:\CSharpTraining\Basics\Basics\bin\Debug\Basics.exe.config
+C:\CSharpTraining\Basics\Basics\bin\Debug\Basics.exe
+C:\CSharpTraining\Basics\Basics\bin\Debug\Basics.pdb
+C:\CSharpTraining\Basics\Basics\obj\Debug\Basics.csprojAssemblyReference.cache
+C:\CSharpTraining\Basics\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+C:\CSharpTraining\Basics\Basics\obj\Debug\Basics.exe
+C:\CSharpTraining\Basics\Basics\obj\Debug\Basics.pdb
